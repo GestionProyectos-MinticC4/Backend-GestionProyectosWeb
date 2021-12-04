@@ -1,0 +1,23 @@
+{
+  "name": "backend-gestionproyectos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GestionProyectos-MinticC4/Backend-GestionProyectosWeb.git"
+  },
+  "author": "Laura Montana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GestionProyectos-MinticC4/Backend-GestionProyectosWeb/issues"
+  },
+  "homepage": "https://github.com/GestionProyectos-MinticC4/Backend-GestionProyectosWeb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14"
+  }
+}
